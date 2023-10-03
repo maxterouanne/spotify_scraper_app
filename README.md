@@ -4,11 +4,12 @@ Chronological scraping streamlit app to see most recent releases based on own us
 Just do:
 ```python spotify_releases_app.py```
 
+
 The app requires an environment with the following packages installed:
-- streamlit
-- pandas
-- numpy
-- tqdm
-- spotipy
+* streamlit
+* pandas
+* numpy
+* tqdm
+* spotipy
 
 The rest is already present in any conda env.
